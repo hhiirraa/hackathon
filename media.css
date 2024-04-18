@@ -1,0 +1,162 @@
+/* media query for main */
+@media only screen and (max-width:1330px) {
+    .main {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width:650px) {
+    .head {
+        width: 100%;
+    }
+    }
+
+
+@media only screen and (max-width:1330px) {
+    .nav {
+        width: 100%;
+    }
+
+    .nav a {
+        padding: 0.5em;
+    }
+
+    
+        }
+    }
+
+    @media only screen and (max-width:650px){
+        .logo{
+            width: 100%;
+            justify-content: center;
+            align-items: center;
+            margin:1em ;
+            margin-left: 2%;
+            flex-direction: column;
+        }
+    }
+    @media only screen and (max-width:650px) {
+        .nav {
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-left: 2%;
+            margin-top: 50px;
+            height: auto;
+        }
+        .nav a{
+            width: 100%;
+            text-align: center;
+            margin-bottom: 0.5em;
+        }
+    
+    }
+    @media only screen and (max-width:650px) {hero-section{
+        display: flex;
+        margin: 10%;
+        flex-direction: column;
+
+    } .search {
+        margin: 0;
+    }
+    
+
+    .hero-section {
+        flex-direction: column;
+    }
+
+    .hero-section img {
+        width: 50%;
+        margin-top: auto;
+    }
+
+    .content {
+        margin-left: 0;
+    }
+
+    .tab-btns {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .btn1,
+    .btn2 {
+        margin: 0.5em 0;
+    }
+
+    .center img {
+        margin: 0 auto;
+    }
+
+    .center h1 {
+        margin: 0 auto;
+    }
+
+    .cabbage {
+        margin-left: 0;
+    }
+}
+
+
+@media (max-width: 1120px) {
+    .flex {
+.flex {
+    flex-direction: column;
+    gap: 2em;
+}
+
+.content {
+    height: 300px
+}
+
+.box {
+    width: 62%;
+
+}
+
+
+
+}
+
+
+@media (max-width: 340px) {
+.card{
+    width: 260px;
+}
+
+.box {
+  
+    width: 90%;
+    
+}
+
+}
+
+.content {
+    height: 300px
+}
+
+.box {
+    width: 62%;
+
+}
+
+
+
+}
+
+
+@media (max-width: 340px) {
+.card{
+    width: 260px;
+}
+
+.box {
+  
+    width: 90%;
+    
+}
+
+}
